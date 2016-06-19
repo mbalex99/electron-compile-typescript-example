@@ -3,7 +3,8 @@
     "development": {
       "text/typescript": {
         "sourceMaps": "inline",
-        "modules": "es6"
+        "module": "es6",
+        "target": "es5"
       },
       "text/less": {
         "dumpLineNumbers": "comments"

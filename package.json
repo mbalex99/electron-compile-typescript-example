@@ -4,13 +4,14 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Maximilian Alexander <mbalex99@gmail.com> (http://blog.edenmsg.com/)",
   "license": "MIT",
   "dependencies": {
-    "electron-compile": "3.2.5",
-    "electron-prebuilt-compile": "1.2.3"
+    "electron-compile": "3.2.6",
+    "electron-prebuilt-compile": "1.2.2"
   },
   "devDependencies": {
     "electron-compilers": "3.1.1",
